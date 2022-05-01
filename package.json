@@ -1,0 +1,19 @@
+{
+  "name": "http-with-node-ps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "services.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethsilverstein/http-with-node-ps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethsilverstein/http-with-node-ps/issues"
+  },
+  "homepage": "https://github.com/bethsilverstein/http-with-node-ps#readme"
+}
