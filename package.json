@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "body": "^5.1.0",
+    "curl": "^0.1.4",
     "formidable": "^2.0.1",
     "yarn": "^1.22.18"
   }
