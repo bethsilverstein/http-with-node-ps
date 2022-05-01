@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bethsilverstein/http-with-node-ps/issues"
   },
-  "homepage": "https://github.com/bethsilverstein/http-with-node-ps#readme"
+  "homepage": "https://github.com/bethsilverstein/http-with-node-ps#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body": "^5.1.0",
+    "formidable": "^2.0.1"
+  }
 }
