@@ -2,7 +2,6 @@
   "name": "http-with-node-ps",
   "version": "1.0.0",
   "description": "",
-  "main": "services.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
